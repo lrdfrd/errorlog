@@ -1,3 +1,10 @@
+
+open the raw file to make it look right, im not sure hot to do it here
+
+
+
+
+
 =~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2021.10.30 19:58:08 =~=~=~=~=~=~=~=~=~=~=~=
 10/30/21-23:30:58 (GMT) (tRAID): NOTE:  SOD: removed SAS host from index 0
 10/30/21-23:30:58 (GMT) (tRAID): NOTE:  Turning on tray summary fault LED
